@@ -31,3 +31,9 @@ let Design = 'Designing the software';
 let Implementation = 'Coding the software';
 let TestingIntegration = 'Testing the software';
 let Maintain = 'Figuring out maintainance, support, and installation';
+
+console.log([Planning],[Analysis],[Design],[Implementation],[TestingIntegration],[Maintain]); 
+/*
+I put each console.log element in brackets so that when printed 
+it'll show a clear break between answers
+*/
